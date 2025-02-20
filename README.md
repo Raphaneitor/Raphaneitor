@@ -55,7 +55,7 @@ Principais problemas relatados pelo requisitante: <br>
 <br>
 <a href="https://github.com/Raphaneitor/ContosoPortolio/tree/main" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOWIwNGVhMWUtY2Y4OS00NzRjLWJkMzQtNzY5YjViNjA2Y2Q1IiwidCI6IjNhNzMyOWQ1LWRmZmUtNDhiYS1iODE0LTU3YjAyOWFiNjcwOCJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOWIwNGVhMWUtY2Y4OS00NzRjLWJkMzQtNzY5YjViNjA2Y2Q1IiwidCI6IjNhNzMyOWQ1LWRmZmUtNDhiYS1iODE0LTU3YjAyOWFiNjcwOCJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso.
 
 
 
