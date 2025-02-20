@@ -9,7 +9,7 @@ Sobre mim:
 - 📚 Estudando sobre a área de Analise/Ciência de dados
 - 🌱 Em processo de formação para ser um Cientista de Dados
 
-<br>
+##
 
 🛠️ Principais Ferramentas:
 
