@@ -1,11 +1,36 @@
-## Hi, I'm Raphael👋
+### Olá, eu sou o Raphael👋
 
-# Analista de Projetos de TI, Consultor e Análise de dados
+## Analista de Projetos de TI, Consultor e Análise de dados
+
+Sobre mim:
 
 - 🔭 Trabalhei como Analista de projetos de TI, Scrum, Analista de RPA, PMO
 - 🏠 Moro em São Paulo - SP
-- 🌱 Estudo sobre a área de Analise de dados
+- 🌱 Estudando sobre a área de Analise/Ciência de dados
 - 🤓 Em processo de formação para ser um Cientista de Dados
+
+<br>
+
+Principais Ferramentas:
+
+<div>
+  <img height="40" width="40" src="https://logospng.org/download/microsoft-excel/logo-microsoft-excel-256.png">
+  <img height="40" width="40" src="https://github.com/Raphaneitor/Portfolio/blob/main/linguagens/sql.png?raw=true">
+  <img height="40" width="40" src="https://github.com/Raphaneitor/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+</div>
+
+<br>
+
+Onde podem me encontrar:
+<div>
+  <a href="https://www.linkedin.com/in/raphael-lopes-53348246/">
+    <img height="40" width="40" src="https://github.com/Raphaneitor/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+</a>
+</div>
+
+<br>
+
+
 
 <!--
 **Raphaneitor/Raphaneitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
