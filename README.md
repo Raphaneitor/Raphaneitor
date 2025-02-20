@@ -17,6 +17,7 @@ Principais Ferramentas:
   <img height="40" width="40" src="https://logospng.org/download/microsoft-excel/logo-microsoft-excel-256.png">
   <img height="40" width="40" src="https://github.com/Raphaneitor/Portfolio/blob/main/linguagens/sql.png?raw=true">
   <img height="40" width="40" src="https://github.com/Raphaneitor/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+  <img height="40" width="40" src="https://github.com/Raphaneitor/Portfolio/blob/main/linguagens/python.png?raw=true">
 </div>
 
 <br>
