@@ -34,7 +34,7 @@ Onde podem me encontrar:
 ### AdventureWorks Vendas Online Dashboard
 <img align="left" width="500" src="https://github.com/Raphaneitor/AdventureWorksPortfolio/blob/main/imagens/AdventureWorks_neon_Dashboard_Overview.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas online da empresa AdventureWorks.
-Principais problemas relatados pelo requisitante: <br>
+Principais problemas a serem tratados: <br>
 - Dificuldade de exportar os dados do sistema atual e manipulação das informações.<br>
 - Segmentar dados por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
 - Medir a performance comparando períodos de tempo.<br>
@@ -48,7 +48,7 @@ Principais problemas relatados pelo requisitante: <br>
 ### Contoso Vendas Online Dashboard
 <img align="right" width="500" src="https://github.com/Raphaneitor/ContosoPortolio/blob/main/imagens/Contoso_Dashboard_Overview.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas online da empresa Contoso.
-Principais problemas relatados pelo requisitante: <br>
+Principais problemas a serem tratados: <br>
 - Dificuldade de exportar os dados do sistema atual e manipulação das informações.<br>
 - Segmentar dados por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
 - Medir a performance comparando períodos de tempo.<br>
