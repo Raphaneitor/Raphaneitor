@@ -58,8 +58,17 @@ Principais problemas a serem tratados: <br>
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOWIwNGVhMWUtY2Y4OS00NzRjLWJkMzQtNzY5YjViNjA2Y2Q1IiwidCI6IjNhNzMyOWQ1LWRmZmUtNDhiYS1iODE0LTU3YjAyOWFiNjcwOCJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso.
 
+<br><br>
 
-
+### Score de Crédito - Quantum Finance
+<img align="left" width="500" src="https://github.com/Raphaneitor/ScoreCr-dito_QuantumFinance/blob/main/QuantumFinance_logo.png?raw=true">
+Projeto desenvolvido em Python, utilizando Jupyter Notebook, com o objetivo de classificar clientes da fintech Quantum Finance por meio de técnicas de Regressão. A proposta é criar um modelo de Score de Crédito capaz de identificar padrões de comportamento e apoiar a tomada de decisão da empresa.
+A aplicação do Score permitirá:<br>
+- Aprovação automática para clientes com alto índice de confiabilidade.<br>
+- Redução do risco de inadimplência, ao prever perfis com maior probabilidade de atraso.<br>
+- Oferta personalizada de produtos financeiros, alinhada ao perfil e histórico de cada cliente.<br>
+<br>
+<a href="https://github.com/Raphaneitor/ScoreCr-dito_QuantumFinance/blob/main/Score_Credito_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <!--
 **Raphaneitor/Raphaneitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
